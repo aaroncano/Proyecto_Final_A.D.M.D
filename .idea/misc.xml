@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/aaron/OneDrive/Escritorio/culdesac/culdesac/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/aaron/OneDrive/Escritorio/culdesac/culdesac/app/src/main/res/drawable/bubble_receive.xml" value="0.2703125" />
+        <entry key="..\:/Users/aaron/OneDrive/Escritorio/culdesac/culdesac/app/src/main/res/drawable/bubble_send.xml" value="0.2703125" />
+        <entry key="..\:/Users/aaron/OneDrive/Escritorio/culdesac/culdesac/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/aaron/OneDrive/Escritorio/culdesac/culdesac/app/src/main/res/layout/activity_chat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aaron/OneDrive/Escritorio/culdesac/culdesac/app/src/main/res/layout/activity_lista_usuarios.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aaron/OneDrive/Escritorio/culdesac/culdesac/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aaron/OneDrive/Escritorio/culdesac/culdesac/app/src/main/res/layout/item_usuario_lista.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aaron/OneDrive/Escritorio/culdesac/culdesac/app/src/main/res/layout/sample_receiver.xml" value="0.264" />
+        <entry key="..\:/Users/aaron/OneDrive/Escritorio/culdesac/culdesac/app/src/main/res/layout/sample_sender.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

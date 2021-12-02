@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+    <string name="todos_usuarios">Todos los usuarios</string>
+    <string name="buscar_contacto">Buscar contacto</string>
+</resources>

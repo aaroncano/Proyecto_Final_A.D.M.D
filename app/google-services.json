@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "666034781868",
+    "project_id": "culdesac-18a19",
+    "storage_bucket": "culdesac-18a19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666034781868:android:d1bf63905029f9c4882909",
+        "android_client_info": {
+          "package_name": "com.example.culdesac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666034781868-hc3u5l7bso1krbbu392nmp4u8k7truss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjp63O8yazkJriB3SvO6eymR7GdzMhQTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666034781868-hc3u5l7bso1krbbu392nmp4u8k7truss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
